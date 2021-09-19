@@ -1,0 +1,5 @@
+baseURL = "https://pianistch.github.io"
+languageCode = "en-us"
+defaultContentLanguage = "en-us"
+title = "pianistch"
+theme = "pianistch"
